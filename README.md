@@ -16,6 +16,9 @@ Welcome to my GitHub!<br><br>I’m a passionate learner and developer who enjoys
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumit111-u&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![snake gif](https://github.com/sumit111-u/sumit111-u/blob/output/github-snake-dark.svg)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
